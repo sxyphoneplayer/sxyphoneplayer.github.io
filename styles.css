@@ -1,0 +1,30 @@
+#content {
+    max-width: 1080px;
+    margin: 0 auto;
+}
+h1 {
+    color: white;
+    text-align: center;
+}
+header, footer {
+    background-color: rgb(172, 107, 233);
+} 
+#profile {
+    width: 200px;
+    height: 200px;
+    border-radius: 3px;
+    box-shadow: 4px 4px 4px black;
+    box-align: right;
+}
+#info {
+    color: white;
+    font-size: 18px;
+    text-align: center;
+}
+#update {
+    color: yellow;
+    text-align: center;
+}
+#update a {
+    text-decoration: none;
+}
