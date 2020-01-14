@@ -12,7 +12,7 @@ h1 {
     box-shadow: 4px 4px 4px white;
     padding: 20px;
     font-size: 60px;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: 'Playfair Display', serif;
     border-radius: 10px;
 }
 hr { 
@@ -44,8 +44,9 @@ ul {
 }
 h2 {
     font-size: 30px;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family: 'IM Fell Great Primer SC', serif;
     line-height: 0em;
+    color: darkslategray;
 }
 #info {
     color: white;
